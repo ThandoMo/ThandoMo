@@ -24,32 +24,34 @@ I am a passionate Data Analyst and Data Scientist with a strong foundation in Ec
 - **Data Analysis:** Exploratory Data Analysis (EDA), Descriptive Statistics, Machine Learning Algorithms, Predictive Modeling
 
 ---
+### 🛠️ Languages and Tools
 
-### 📈 Featured Projects
+#### Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-#### [Credit Risk Profiling Project](https://github.com/ThandoMo/PortfolioProjects/tree/main/CreditRiskProfiling)
-*January 2024*
-- Led a comprehensive Credit Risk Profiling project using Python and pandas to analyze and model credit risk for 1000 customer records.
-- Performed thorough EDA, handled missing values, and utilized descriptive statistics and categorical data handling techniques.
-- Analyzed credit risk distribution and explored the relationship between credit amount and duration using Seaborn.
+#### Best frameworks and main libraries for Python3:
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Sklearn](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-#### [Malware Prediction Project](https://github.com/ThandoMo/PortfolioProjects/tree/main/MalwarePrediction)
-*February 2024*
-- Explored an Android malware dataset, ensured data quality, and created balanced training and testing sets.
-- Evaluated multiple models, identifying Gradient Boosting Classifier as the top-performing model based on key metrics like precision, recall, and ROC curves.
+#### My tools for Data Manipulation & Visualisation:
+![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-019733?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-#### [COVID-19 Data Exploration](https://github.com/ThandoMo/PortfolioProjects/tree/main/COVID19DataExploration)
-*May 2022*
-- Leveraged SQL to perform comprehensive data exploration on COVID-19 statistics.
-- Used advanced SQL techniques to compare COVID-19 cases and deaths, analyze mortality likelihood, and identify continents with the highest death count per population.
+---
 
-#### [UK Road Accidents Dashboard](https://github.com/ThandoMo/PortfolioProjects/tree/main/UKRoadAccidentsDashboard)
-*July 2023*
-- Conducted detailed analysis of UK road accidents using Excel, identifying trends and relationships between road types, weather conditions, and casualty rates.
-
-#### [Customer Sales Analysis](https://github.com/ThandoMo/PortfolioProjects/tree/main/CustomerSalesAnalysis)
-*June 2023*
-- Utilized SQL to extract data from customer sales databases, transform and filter data, and visualize insights using Python to improve sales performance.
 
 ---
 

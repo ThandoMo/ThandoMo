@@ -58,7 +58,9 @@ I am a passionate Data Analyst and Data Scientist with a strong foundation in Ec
 ### 📜 Certifications
 
 - **Data Science Professional Certificate - IBM**
-- **Introduction to Data Analytics - IBM**
+**Data Science Professional Certificate - IBM**
+  [![Credly Badge](https://images.credly.com/size/220x220/images/b6a6bb25-cb56-4e48-98b2-b20b2ab4f572/IBM_Data_Science_Professional_Certificate.png)](https://www.credly.com/earner/earned/share/b6a6bb25-cb56-4e48-98b2-b20b2ab4f572)
+-
 - **SQL for Data Science - University of California, Davis**
 
 ---

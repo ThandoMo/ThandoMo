@@ -13,7 +13,7 @@
 
 ### 👋 About Me
 
-I am a passionate Data Analyst and Data Scientist with a strong foundation in Economics, Financial Mathematics, and Statistical Analysis. My expertise lies in using data-driven techniques to provide insights and solutions, particularly in the finance and insurance sectors.
+I am a passionate Data Analyst with a strong foundation in Economics, Financial Mathematics, and Statistical Analysis. My expertise lies in using data-driven techniques to provide insights and solutions, particularly in the finance and insurance sectors.
 
 ---
 
@@ -71,7 +71,7 @@ I am a passionate Data Analyst and Data Scientist with a strong foundation in Ec
   University of South Africa, Pretoria, GP | April 2019
 
 - **Bachelor of Commerce: Economics**  
-  University of South Africa, Pretoria, GP |  - Nov 2024
+  University of South Africa, Pretoria, GP |  - Nov 2025
 
 ---
 
